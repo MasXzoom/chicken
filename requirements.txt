@@ -1,0 +1,4 @@
+requests>=2.25.1
+concurrent-futures>=0.0.0
+colorama>=0.4.4
+tenacity>=7.0.0
